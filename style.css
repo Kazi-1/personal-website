@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+     font-family: 'Poppins', sans-serif;
+ }
+ .header-area {
+     padding-bottom: 100px ;
+ }
+ .header-area ul{
+     text-decoration: none;
+     margin-left: 65%;
+     overflow: hidden;
+    
+ }
+ .header-area ul li {
+     float: left;
+     list-style: none;
+     margin: 10px;
+     font-weight: bold;
+     font-size: 20px;
+ }
+ h1{
+     font-size: 70px;
+     font-weight: 700;
+ }
+ .half-width p{
+     padding-bottom: 40px;
+ }
+ .orange-highlight{
+     color: tomato;
+ }
+ .half-width {
+     width: 40%;
+     float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+ }
+ .half-width img {
+     width: 100%;
+ }
+ section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, blue, cyan) ;
+    font-weight: 700;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 40px;
+}
+.project-area{
+    background-color: hsl(230, 30%, 96%);
+}
+.project-area h2{
+    text-align: center;
+    font-size: 40px;
+    padding: 80px 0px;
+}
+.project-area h3{
+    font-weight: 700;
+    font-size: 20px;
+}
+.single-project {
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding: 1%;
+}
+.single-project{
+    box-shadow: 1px 1px 1px gray;
+    height: 70%;
+    border-radius: 20px;
+    background-color: white;
+}
+.single-project img {
+    width: 100%;
+    height: auto;
+}
+.margin-left{
+    margin-left: 6%;
+}
+.project-area {
+    padding-bottom: 250px;
+}
+.footer-area{
+    text-align: center;
+}
+.footer-area h3{
+    color: grey;
+}
+.footer-area img{
+    width: 60%;
+    height: auto;
+    padding: 100px 0;
+}
+.icon img{
+    width: 50px;
+    height: auto;
+    margin: 10px;
+}
+.text-area{
+    margin: 0;
+    padding: 0;
+}
+
